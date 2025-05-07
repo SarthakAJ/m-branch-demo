@@ -1,4 +1,4 @@
-pipelilne {
+pipeline {
   agent {
     node {
     label "built-in"
