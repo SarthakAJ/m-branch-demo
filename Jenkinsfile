@@ -8,7 +8,7 @@ pipelilne {
   stages{
     stage ("one") {
       steps{
-        echo "this is master branch"
+        echo "this is demo branch"
       }
     }
   }
