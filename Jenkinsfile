@@ -1,6 +1,6 @@
 pipelilne {
   agent {
-    node {
+    label {
     label "built-in"
     currentworkspace '/mnt/server'
   }
