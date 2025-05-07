@@ -2,7 +2,7 @@ pipeline {
   agent {
     node {
     label "built-in"
-    currentworkspace '/mnt/server'
+    currentWorkspace '/mnt/server'
   }
   }
   stages{
