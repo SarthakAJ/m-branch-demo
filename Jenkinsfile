@@ -2,7 +2,7 @@ pipelilne {
   agent {
     label {
     label "built-in"
-    currentworkspace '/mnt/server'
+    // currentworkspace '/mnt/server'
   }
   }
   stages{
